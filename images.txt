@@ -1,4 +1,0 @@
-<img src="./"
- alt="alternatywny tekst" 
- width="" 
- height="" />
